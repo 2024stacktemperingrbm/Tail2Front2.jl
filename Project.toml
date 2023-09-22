@@ -1,7 +1,7 @@
 name = "Tail2Front2"
 uuid = "64a072fb-ee9f-4297-92fa-03899ca5ed3d"
 authors = ["JFdCD <jfdecd@icloud.com>"]
-version = "1.0.0-DEV"
+version = "1.0.0"
 
 [compat]
 julia = "1.9"
